@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# This Project is being made up of Lovable AI
 
 ## Project info
 
